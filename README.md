@@ -2,4 +2,4 @@
  
  # Index
  - ![History](history.md)
- - ![User manual](userManual/index.md)
+ - ![User manual](UserManual/index.md)
