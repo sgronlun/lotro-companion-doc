@@ -28,19 +28,47 @@ This is described ![here](../ApplicationConfiguration/main.md).
 
 - Start LotroCompanion. Open a 'character configuration' window for this character.
 - In the game:
-	- start item capture: type command /LotroCompanion start in the chat.
-	- link the item you need into the chat. The item may come from your equipped items or from your bag. Currently, only one item may be present in each chat message. Press enter to send the message that contains the link.
+	- start item capture: type this command in the chat:
+
+     /lc start
+
+	You should get a message like this one to indicate that the item capture has been enabled. Now all items linked into the chat (in both received or sent messages) will be saved.
+
+    ![Capture Enabled](CaptureEnabled.png)
+
+	- link the item you need into the chat. The item may come from your equipped items or from your bag. Currently, only one item may be present in each chat message. Press enter to send the message that contains the link. You get a message 'Got an item' in addition to the 'say' notification:
+
+    ![Linked Item](GotItem.png)
+
 - In the application:
-	- right click on the item slot to use for the linked item, and choose 'Import from game...'. This will bring a window to choose between the possible items. You should find the item you just linked, in addition to all previous items you linked that fit in that slot.
+	- right click on the item slot to use for the linked item (the head slot here), and choose 'Import from game...':
+
+    ![Contextual menu](ChooseFromGameMenu.png)
+
+    This will bring a window to choose between the possible items. You should find the item you just linked, in addition to all previous items you linked that fit in that slot:
+
+    ![Game items list](GameItemsList.png)
+
+Here is the item in game, and in the application. See how stats and essences are faithfully imported.
+
+![In game](InGameItem.png)      ![In application](ImportedItemInstance.png)
+
+
 - In the game:
-	- stop items capture when you want: type command /LotroCompanion stop in the chat.
+	- stop items capture when you want: type this command in the chat:
+
+    /lc stop
+
+	You should get a message like this one to indicate that the item capture has been disabled..
+
+	![Capture Disabled](CaptureDisabled.png)
 
 Note that the LotroCompanion desktop application only needs the file that contains item links. Once an item is linked into the game client chat, then it will persist in the file until it is dropped because too many items were linked afterwards.
 So:
 - you don't need the game client if items were already linked.
 - you may see in the application some items that were linked in previous sessions.
 
-## Advices
+## Tips
 ### Chat channel to use
 Choose carefully the chat channel you're using. You don't want connected people to hear the exact collection of items you're trying to export. That pollutes their game experience.
 For instance, the default channel will be heard by the players in the same area.
