@@ -2,7 +2,7 @@
 
 ## Get it!
 The LotroCompanion plugin can be found:
-- at SourceForge: ![here](https://sourceforge.net/projects/lotrocompanion/files/LotroCompanion-plugin-1.0.zip/download)
+- at SourceForge: [here](https://sourceforge.net/projects/lotrocompanion/files/LotroCompanion-plugin-1.0.zip/download)
 
 ## Install it
 Unzip the downloaded ZIP archive into the directory for the LOTRO plugins.  
