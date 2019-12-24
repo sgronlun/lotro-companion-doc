@@ -3,7 +3,7 @@
 Here you will learn how to export the complete definition of in-game item instances into the LotroCompanion desktop application.
 
 ## Pre-requisites
-The 'LotroCompanion' plugin must be installed and started for the character(s) you use. Installation is described ![here](../InstallPlugin/main.md).
+The 'LotroCompanion' plugin must be installed and started for the character(s) you use. Installation is described [here](../InstallPlugin/main.md).
 The game client and the LotroCompanion have to run on the same PC (because they will share files).
 In order to get the items for a character, this character has to be defined in LotroCompanion with the same server, account and name. This is because the path of the file used for exchanges does contain those 3 values.
 
@@ -21,7 +21,7 @@ Where <plugins data dir> is <user home>\Documents\The Lord of the Rings Online.
 ## Configuration
 
 You may need to configure the path where LotroCompanion can find the data files of the game plugins.
-This is described ![here](../ApplicationConfiguration/main.md).
+This is described [here](../ApplicationConfiguration/main.md).
 
 ## How to
 - Start the game client and connect with the character you want.
