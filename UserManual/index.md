@@ -7,6 +7,6 @@ This application has 3 main usages:
 - Lore compendium
  
 # Index of HOW-TOs
-- ![How to install the LotroCompanion plugin](HowTo/InstallPlugin/main.md)
-- ![How to get items from the game into Lotro Companion](HowTo/ImportGameItems/main.md)
-- ![Configuration of the LotroCompanion desktop application](HowTo/ApplicationConfiguration/main.md)
+- [How to install the LotroCompanion plugin](HowTo/InstallPlugin/main.md)
+- [How to get items from the game into Lotro Companion](HowTo/ImportGameItems/main.md)
+- [Configuration of the LotroCompanion desktop application](HowTo/ApplicationConfiguration/main.md)
