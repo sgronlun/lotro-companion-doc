@@ -1,5 +1,10 @@
 # How to get the stats of my character right
 
+This is a how-to that explains how to edit a character so that its computed stats do matchs those found in-game.
+While this was very useful before we had the 'Import from local client' feature, it is almost useless now.
+The import process shall build a character configuration that closely matches the one in-game.
+Some mismatches or misses can still occur, and the edition capability shall allow to fix this.
+
 ## Create you character
 Obviously, you should create a character with the right class and race. Both do contribute to base stats.
 

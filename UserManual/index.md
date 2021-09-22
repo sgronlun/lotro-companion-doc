@@ -3,14 +3,16 @@ This is the user manual of Lotro Companion.
 # Goals and usage
 This application has 3 main usages:
 - Character status tracker
-- Character simulation
+- Character gear simulation
 - Lore compendium
 
 # User Manual
 - [A quick start guide](QuickStartGuide/main.md)
+- [An overview](Overview/main.md)
+
 
 # Index of HOW-TOs
-- [How to install the LotroCompanion plugin](HowTo/InstallPlugin/main.md)
-- [How to get items from the game into Lotro Companion](HowTo/ImportGameItems/main.md)
+- [Installation](HowTo/Installation/main.md)
 - [Configuration of the LotroCompanion desktop application](HowTo/ApplicationConfiguration/main.md)
+- [Import a character from the game client](LocalClientImport/main.md)
 - [How to get the right stats for your character](HowTo/GetStatsRight/main.md)
