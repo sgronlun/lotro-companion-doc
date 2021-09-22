@@ -12,7 +12,7 @@ This application has 3 main usages:
 
 
 # Index of HOW-TOs
-- [Installation](HowTo/Installation/main.md)
+- [Installation](Installation/main.md)
 - [Configuration of the LotroCompanion desktop application](HowTo/ApplicationConfiguration/main.md)
 - [Import a character from the game client](LocalClientImport/main.md)
 - [How to get the right stats for your character](HowTo/GetStatsRight/main.md)
