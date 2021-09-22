@@ -2,6 +2,8 @@
 From the main window for a character, double click on a row of the 'Configurations' table to edit this configuration.
 It will bring a 'character configuration' edition window.
 
+![Character Configuration Window](CharacterConfigurationWindow.png)
+
 This window will display the real or simulated state of a character a given time.
 This includes:
     - level

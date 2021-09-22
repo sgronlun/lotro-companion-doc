@@ -9,6 +9,7 @@ Especially, the installation directory of the client shall be correct. See [HERE
 Start your game client. Select the character you want to use and enter the Middle Earth.
 
 Click on the 'Import from LotRO' button. This will bring the window 'Import from local client'.
+
 ![Screenshot of import window](ImportWindow.png)
 
 Scope selection:
@@ -24,6 +25,7 @@ At the end of the import, it shall display "Import Finished" or "Import failed".
 The status of each selected import element will be shown in the bottom right part as "Done", "Not Found" or "Failed".
 
 Here is a finished import screenshot:
+
 ![Finished import](ImportFinished.png)
 
 # Troubleshooting

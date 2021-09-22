@@ -7,6 +7,8 @@ From this window, you will perform all the actions for this character:
 - edit the character configurations
 - consult or edit a lot of specific aspects of the character
 
+![Character Window](CharacterWindow.png)
+
 ## Main characteristics edition
 The 'Edit...' button brings a window where you can edit the main characteristics of this character:
     - name (you may change the name of your character if ever it changes in game)
@@ -21,7 +23,10 @@ The 'Edit...' button brings a window where you can edit the main characteristics
 In this window, we have a table of 'configurations'. Each configuration contains the real or simulated configuration of your character at a given date.
 
 When the character is created, a 'character configuration' is created for it, that reflects the state of a new character (level 1) for this race and class.
+
 When a character is imported from the game client (with 'Current Gear' ticked), a new 'character configuration' is created for it, that reflects the current state of the character in the game (level, gear, virtues...).
+
+A detailed presentation of the 'Character Configuration' window is available [HERE](../CharacterConfigurationEdition/CharacterConfigurationEdition.md).
 
 ## Character status
 At the bottom of the window, you have access to a collection of buttons to track several aspects of your character:
